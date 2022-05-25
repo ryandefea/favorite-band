@@ -1,0 +1,17 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  float: left;
+}
+
+body {
+  text-align: center;
+}
